@@ -1,0 +1,26 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,stop_url,wheelchair_boarding
+01,Intercambiador,Parada y Oficina Comercial del Metropolitano,28.45893894,-16.25105038,0,http://tranviaonline.metrotenerife.com/#paneles/INT,1
+02,Fundación,,28.46451144,-16.2482308,0,http://tranviaonline.metrotenerife.com/#paneles/FUN,1
+03,Teatro Guimerá,,28.46628303,-16.2516372,0,http://tranviaonline.metrotenerife.com/#paneles/GUI,1
+04,Weyler,,28.46731878,-16.2557679,0,http://tranviaonline.metrotenerife.com/#paneles/WEY,1
+05,La Paz,,28.46775658,-16.26066277,0,http://tranviaonline.metrotenerife.com/#paneles/PAZ,1
+06,Puente Zurita,,28.46784198,-16.26474376,0,http://tranviaonline.metrotenerife.com/#paneles/ZUR,1
+07,Cruz del Senor,,28.46435389,-16.27203173,0,http://tranviaonline.metrotenerife.com/#paneles/CRS,1
+08,Conservatorio,,28.46206183,-16.27783832,0,http://tranviaonline.metrotenerife.com/#paneles/CON,1
+09,Chimisay,,28.45734859,-16.28118555,0,http://tranviaonline.metrotenerife.com/#paneles/CHI,1
+10,Príncipes de Espana,,28.45330559,-16.28503032,0,http://tranviaonline.metrotenerife.com/#paneles/PPE,1
+11,Hospital La Candelaria,,28.44907883,-16.28694351,0,http://tranviaonline.metrotenerife.com/#paneles/CAN,1
+12,Taco,,28.44692754,-16.29543796,0,http://tranviaonline.metrotenerife.com/#paneles/TAC,1
+13,El Cardonal,Parada con transbordo Linea 1 y 2,28.45167366,-16.29374333,0,http://tranviaonline.metrotenerife.com/#paneles/CAR,1
+14,Hospital Universitario,Parada con transbordo Linea 1 y 2,28.45757884,-16.29273265,0,http://tranviaonline.metrotenerife.com/#paneles/HOS,1
+15,Las Mantecas,,28.46359628,-16.29690095,0,http://tranviaonline.metrotenerife.com/#paneles/MAN,1
+16,Campus Guajara,,28.46874336,-16.30216762,0,http://tranviaonline.metrotenerife.com/#paneles/GUA,1
+17,Gracia,,28.47338359,-16.30543852,0,http://tranviaonline.metrotenerife.com/#paneles/GRA,1
+18,Museo de la Ciencia,,28.47636654,-16.30921226,0,http://tranviaonline.metrotenerife.com/#paneles/MCI,1
+19,Cruz de Piedra,,28.4796278,-16.31230388,0,http://tranviaonline.metrotenerife.com/#paneles/CPI,1
+20,Padre Anchieta,,28.480847,-16.316764,0,http://tranviaonline.metrotenerife.com/#paneles/ANC,1
+21,La Trinidad,Parada y Oficina Comercial del Metropolitano,28.48579349,-16.31643223,0,http://tranviaonline.metrotenerife.com/#paneles/TRI,1
+22,La Cuesta,Parada Final,28.46707,-16.28602,0,http://tranviaonline.metrotenerife.com/#paneles/CUE,1
+23,Ingenieros,,28.46235,-16.29104,0,http://tranviaonline.metrotenerife.com/#paneles/ING,1
+24,San Jeronimo,,28.44787,-16.29814,0,http://tranviaonline.metrotenerife.com/#paneles/JER,1
+26,Tíncer,,28.44376,-16.30459,0,http://tranviaonline.metrotenerife.com/#paneles/TIN,1

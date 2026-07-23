@@ -1,0 +1,13 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+L1,S1,IT,Trinidad,0,Shape1
+L2,S1,LT,Tincer,0,Shape3
+L1,S1,TI,Intercambiador,1,Shape2
+L2,S1,TL,La Cuesta,1,Shape4
+L1,S2,ITSA,Trinidad,0,Shape1
+L2,S2,LTSA,Tincer,0,Shape3
+L1,S2,TISA,Intercambiador,1,Shape2
+L2,S2,TLSA,La Cuesta,1,Shape4
+L1,S3,ITDO,Trinidad,0,Shape1
+L2,S3,LTDO,Tincer,0,Shape3
+L1,S3,TIDO,Intercambiador,1,Shape2
+L2,S3,TLDO,La Cuesta,1,Shape4
